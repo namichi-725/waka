@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "kimariji": "あき",
+    "full_kami": "秋の田の かりほの庵の 苫をあらみ",
+    "shimo_no_ku": "わが衣手は 露にぬれつつ",
+    "author": "天智天皇"
+  },
+  {
+    "id": 2,
+    "kimariji": "はる",
+    "full_kami": "春過ぎて 夏来にけらし 白妙の",
+    "shimo_no_ku": "衣ほすてふ 天の香具山",
+    "author": "持統天皇"
+  },
+  {
+    "id": 3,
+    "kimariji": "あし",
+    "full_kami": "あしびきの 山鳥の尾の しだり尾の",
+    "shimo_no_ku": "ながながし夜を ひとりかも寝む",
+    "author": "柿本人麻呂"
+  },
+  {
+    "id": 4,
+    "kimariji": "たご",
+    "full_kami": "田子の浦に うち出でて見れば 白妙の",
+    "shimo_no_ku": "富士の高嶺に 雪は降りつつ",
+    "author": "山部赤人"
+  },
+  {
+    "id": 5,
+    "kimariji": "おく",
+    "full_kami": "奥山に 紅葉踏み分け 鳴く鹿の",
+    "shimo_no_ku": "声聞く時ぞ 秋は悲しき",
+    "author": "猿丸大夫"
+  },
+  {
+    "id": 6,
+    "kimariji": "かさ",
+    "full_kami": "鵲の 渡せる橋に 置く霜の",
+    "shimo_no_ku": "白きを見れば 夜ぞ更けにける",
+    "author": "中納言家持"
+  },
+  {
+    "id": 7,
+    "kimariji": "あま",
+    "full_kami": "天の原 ふりさけ見れば 春日なる",
+    "shimo_no_ku": "三笠の山に 出でし月かも",
+    "author": "安倍右大臣"
+  },
+  {
+    "id": 8,
+    "kimariji": "わがいほ",
+    "full_kami": "わが庵は 都の辰巳 しかぞ住む",
+    "shimo_no_ku": "世をうぢ山と 人はいふなり",
+    "author": "喜撰法師"
+  },
+  {
+    "id": 9,
+    "kimariji": "はなの",
+    "full_kami": "花の色は 移りにけりな いたづらに",
+    "shimo_no_ku": "わが身世にふる ながめせしまに",
+    "author": "小野小町"
+  },
+  {
+    "id": 10,
+    "kimariji": "これ",
+    "full_kami": "これやこの 行くも帰るも 別れては",
+    "shimo_no_ku": "知るも知らぬも 逢坂の関",
+    "author": "蝉丸"
+  },
+  {
+    "id": 11,
+    "kimariji": "わたのはら（やそ）",
+    "full_kami": "わたの原 八十島かけて 漕ぎ出でぬと",
+    "shimo_no_ku": "人には告げよ 海人の釣舟",
+    "author": "参議篁"
+  },
+  {
+    "id": 12,
+    "kimariji": "あまつ",
+    "full_kami": "天つ風 雲の通ひ路 吹きとぢよ",
+    "shimo_no_ku": "乙女の姿 しばしとどめむ",
+    "author": "僧正遍昭"
+  },
+  {
+    "id": 13,
+    "kimariji": "つく",
+    "full_kami": "筑波嶺の 峰より落つる みなの川",
+    "shimo_no_ku": "恋ぞ積もりて 淵となりぬる",
+    "author": "陽成院"
+  },
+  {
+    "id": 14,
+    "kimariji": "みち",
+    "full_kami": "陸奥の しのぶもぢずり 誰ゆゑに",
+    "shimo_no_ku": "乱れそめにし われならなくに",
+    "author": "河原左大臣"
+  },
+  {
+    "id": 15,
+    "kimariji": "きみがため（はる）",
+    "full_kami": "君がため 春の野に出でて 若菜摘む",
+    "shimo_no_ku": "わが衣手に 雪は降りつつ",
+    "author": "光孝天皇"
+  },
+  {
+    "id": 16,
+    "kimariji": "たち",
+    "full_kami": "立ち別れ いなばの山の 峰に生ふる",
+    "shimo_no_ku": "まつとし聞かば 今帰り来む",
+    "author": "中納言行平"
+  },
+  {
+    "id": 17,
+    "kimariji": "ちは",
+    "full_kami": "ちはやぶる 神代も聞かず 竜田川",
+    "shimo_no_ku": "からくれなゐに 水くくるとは",
+    "author": "在原業平朝臣"
+  },
+  {
+    "id": 18,
+    "kimariji": "すみ",
+    "full_kami": "住の江の 岸に寄る波 よるさへや",
+    "shimo_no_ku": "夢の通ひ路 人目よくらむ",
+    "author": "藤原敏行朝臣"
+  },
+  {
+    "id": 19,
+    "kimariji": "なにはがた",
+    "full_kami": "難波潟 短き芦の ふしの間も",
+    "shimo_no_ku": "逢はでこの世を 過ぐしてよとや",
+    "author": "伊勢"
+  },
+  {
+    "id": 20,
+    "kimariji": "わび",
+    "full_kami": "わびぬれば 今はたおなじ 難波なる",
+    "shimo_no_ku": "みをつくしても 逢はむとぞ思ふ",
+    "author": "元良親王"
+  },
+  {
+    "id": 21,
+    "kimariji": "いま",
+    "full_kami": "今来むと いひしばかりに 長月の",
+    "shimo_no_ku": "有明の月を 待ち出でつるかな",
+    "author": "素性法師"
+  },
+  {
+    "id": 22,
+    "kimariji": "ふく",
+    "full_kami": "吹くからに 秋の草木の しをるれば",
+    "shimo_no_ku": "むべ山風を 嵐といふらむ",
+    "author": "文屋康秀"
+  },
+  {
+    "id": 23,
+    "kimariji": "つき",
+    "full_kami": "月見れば ちぢにものこそ 悲しけれ",
+    "shimo_no_ku": "わが身ひとつの 秋にはあらねど",
+    "author": "大江千里"
+  },
+  {
+    "id": 24,
+    "kimariji": "この",
+    "full_kami": "このたびは 幣も取りあへず 手向山",
+    "shimo_no_ku": "紅葉の錦 神のまにまに",
+    "author": "菅家"
+  },
+  {
+    "id": 25,
+    "kimariji": "なに",
+    "full_kami": "名にし負はば 逢坂山の さねかづら",
+    "shimo_no_ku": "人に知られで 来るよしもがな",
+    "author": "三条右大臣"
+  },
+  {
+    "id": 26,
+    "kimariji": "をぐら",
+    "full_kami": "小倉山 峰の紅葉葉 心あらば",
+    "shimo_no_ku": "今ひとたびの みゆき待たなむ",
+    "author": "貞信公"
+  },
+  {
+    "id": 27,
+    "kimariji": "みか",
+    "full_kami": "みかの原 わきて流るる いづみ川",
+    "shimo_no_ku": "いつ見きとてか 恋しかるらむ",
+    "author": "中納言兼輔"
+  },
+  {
+    "id": 28,
+    "kimariji": "やまざと",
+    "full_kami": "山里は 冬ぞ寂しさ まさりける",
+    "shimo_no_ku": "人目も草も かれぬと思へば",
+    "author": "源宗于朝臣"
+  },
+  {
+    "id": 29,
+    "kimariji": "こころあ",
+    "full_kami": "心あてに 折らばや折らむ 初霜の",
+    "shimo_no_ku": "置きまどはせる 白菊の花",
+    "author": "凡河内躬恒"
+  },
+  {
+    "id": 30,
+    "kimariji": "ありあけの",
+    "full_kami": "有明の つれなく見えし 別れより",
+    "shimo_no_ku": "暁ばかり 憂きものはなし",
+    "author": "壬生忠岑"
+  },
+  {
+    "id": 31,
+    "kimariji": "あさぼらけ（あり）",
+    "full_kami": "朝ぼらけ 有明の月と 見るまでに",
+    "shimo_no_ku": "吉野の里に 降れる白雪",
+    "author": "坂上是則"
+  },
+  {
+    "id": 32,
+    "kimariji": "やまがは",
+    "full_kami": "山川に 風のかけたる しがらみは",
+    "shimo_no_ku": "流れもあへぬ 紅葉なりけり",
+    "author": "春道列樹"
+  },
+  {
+    "id": 33,
+    "kimariji": "ひさかたの",
+    "full_kami": "ひさかたの 光のどけき 春の日に",
+    "shimo_no_ku": "静心なく 花の散るらむ",
+    "author": "紀友則"
+  },
+  {
+    "id": 34,
+    "kimariji": "たれ",
+    "full_kami": "誰をかも 知る人にせむ 高砂の",
+    "shimo_no_ku": "松も昔の 友ならなくに",
+    "author": "藤原興風"
+  },
+  {
+    "id": 35,
+    "kimariji": "ひとは",
+    "full_kami": "人はいさ 心も知らず ふるさとは",
+    "shimo_no_ku": "花ぞ昔の 香ににほひける",
+    "author": "紀貫之"
+  },
+  {
+    "id": 36,
+    "kimariji": "なつの",
+    "full_kami": "夏の夜は まだ宵ながら 明けぬるを",
+    "shimo_no_ku": "雲のいづこに 月宿るらむ",
+    "author": "清原深養父"
+  },
+  {
+    "id": 37,
+    "kimariji": "しら",
+    "full_kami": "白露に 風の吹きしく 秋の野は",
+    "shimo_no_ku": "つらぬきとめぬ 玉ぞ散りける",
+    "author": "文屋朝康"
+  },
+  {
+    "id": 38,
+    "kimariji": "わす",
+    "full_kami": "忘らるる 身をば思はず 誓ひてし",
+    "shimo_no_ku": "人の命の 惜しくもあるかな",
+    "author": "右近"
+  },
+  {
+    "id": 39,
+    "kimariji": "あさぢ",
+    "full_kami": "浅茅生の 小野の篠原 しのぶれど",
+    "shimo_no_ku": "あまりてなどか 人の恋しき",
+    "author": "参議等"
+  },
+  {
+    "id": 40,
+    "kimariji": "しのぶれど",
+    "full_kami": "しのぶれど 色に出でにけり わが恋は",
+    "shimo_no_ku": "ものや思ふと 人の問ふまで",
+    "author": "平兼盛"
+  },
+  {
+    "id": 41,
+    "kimariji": "こひ",
+    "full_kami": "恋すてふ わが名はまだき 立ちにけり",
+    "shimo_no_ku": "人知れずこそ 思ひそめしか",
+    "author": "壬生忠見"
+  },
+  {
+    "id": 42,
+    "kimariji": "ちぎ",
+    "full_kami": "契りきな かたみに袖を しぼりつつ",
+    "shimo_no_ku": "末の松山 波越さじとは",
+    "author": "清原元輔"
+  },
+  {
+    "id": 43,
+    "kimariji": "あひ",
+    "full_kami": "逢ひ見ての のちの心に くらぶれば",
+    "shimo_no_ku": "昔はものを 思はざりけり",
+    "author": "権中納言敦忠"
+  },
+  {
+    "id": 44,
+    "kimariji": "あふ",
+    "full_kami": "逢ふことの 絶えてしなくは なかなかに",
+    "shimo_no_ku": "人をも身をも 恨みざらまし",
+    "author": "中納言朝忠"
+  },
+  {
+    "id": 45,
+    "kimariji": "あは",
+    "full_kami": "あはれとも いふべき人は 思ほえで",
+    "shimo_no_ku": "身のいたづらに なりぬべきかな",
+    "author": "謙徳公"
+  },
+  {
+    "id": 46,
+    "kimariji": "ゆら",
+    "full_kami": "由良の門を 渡る舟人 かぢを絶え",
+    "shimo_no_ku": "ゆくへも知らぬ 恋の道かな",
+    "author": "曾禰好忠"
+  },
+  {
+    "id": 47,
+    "kimariji": "やへ",
+    "full_kami": "八重むぐら しげれる宿の さびしきに",
+    "shimo_no_ku": "人こそ見えね 秋は来にけり",
+    "author": "恵慶法師"
+  },
+  {
+    "id": 48,
+    "kimariji": "かぜを",
+    "full_kami": "風をいたみ 岩うつ波の おのれのみ",
+    "shimo_no_ku": "くだけてものを 思ふころかな",
+    "author": "源重之"
+  },
+  {
+    "id": 49,
+    "kimariji": "みかき",
+    "full_kami": "みかきもり 衛士のたく火の 夜は燃え",
+    "shimo_no_ku": "昼は消えつつ ものをこそ思へ",
+    "author": "大中臣能宣朝臣"
+  },
+  {
+    "id": 50,
+    "kimariji": "きみがため（をし）",
+    "full_kami": "君がため 惜しからざりし 命さへ",
+    "shimo_no_ku": "長くもがなと 思ひぬるかな",
+    "author": "藤原義孝"
+  },
+  {
+    "id": 51,
+    "kimariji": "かく",
+    "full_kami": "かくとだに えやはいぶきの さしも草",
+    "shimo_no_ku": "さしも知らじな 燃ゆる思ひを",
+    "author": "藤原実方朝臣"
+  },
+  {
+    "id": 52,
+    "kimariji": "あけ",
+    "full_kami": "明けぬれば 暮るるものとは 知りながら",
+    "shimo_no_ku": "なほ恨めしき 朝ぼらけかな",
+    "author": "藤原道信朝臣"
+  },
+  {
+    "id": 53,
+    "kimariji": "なげ",
+    "full_kami": "嘆きつつ ひとり寝る夜の 明くる間は",
+    "shimo_no_ku": "いかに久しき ものとかは知る",
+    "author": "右大将道綱母"
+  },
+  {
+    "id": 54,
+    "kimariji": "わすれじ",
+    "full_kami": "忘れじの 行く末までは かたければ",
+    "shimo_no_ku": "今日を限りの 命ともがな",
+    "author": "儀同三司母"
+  },
+  {
+    "id": 55,
+    "kimariji": "たき",
+    "full_kami": "滝の音は 絶えて久しく なりぬれど",
+    "shimo_no_ku": "名こそ流れて なほ聞こえけれ",
+    "author": "大納言公任"
+  },
+  {
+    "id": 56,
+    "kimariji": "あらざらむ",
+    "full_kami": "あらざらむ この世のほかの 思ひ出に",
+    "shimo_no_ku": "今ひとたびの 逢ふこともがな",
+    "author": "和泉式部"
+  },
+  {
+    "id": 57,
+    "kimariji": "めぐ",
+    "full_kami": "めぐり逢ひて 見しやそれとも わかぬ間に",
+    "shimo_no_ku": "雲がくれにし 夜半の月かな",
+    "author": "紫式部"
+  },
+  {
+    "id": 58,
+    "kimariji": "ありま",
+    "full_kami": "有馬山 猪名の笹原 風吹けば",
+    "shimo_no_ku": "いでそよ人を 忘れやはする",
+    "author": "大弐三位"
+  },
+  {
+    "id": 59,
+    "kimariji": "やす",
+    "full_kami": "やすらはで 寝なましものを 小夜更けて",
+    "shimo_no_ku": "かたぶくまでの 月を見しかな",
+    "author": "赤染衛門"
+  },
+  {
+    "id": 60,
+    "kimariji": "おほえ",
+    "full_kami": "大江山 いく野の道の 遠ければ",
+    "shimo_no_ku": "まだふみもみず 天の橋立",
+    "author": "小式部内侍"
+  },
+  {
+    "id": 61,
+    "kimariji": "いに",
+    "full_kami": "いにしへの 奈良の都の 八重桜",
+    "shimo_no_ku": "けふ九重に にほひぬるかな",
+    "author": "伊勢大輔"
+  },
+  {
+    "id": 62,
+    "kimariji": "よを",
+    "full_kami": "夜をこめて 鳥のそら音は はかるとも",
+    "shimo_no_ku": "よに逢坂の 関はゆるさじ",
+    "author": "清少納言"
+  },
+  {
+    "id": 63,
+    "kimariji": "いまは",
+    "full_kami": "今はただ 思ひ絶えなむ とばかりを",
+    "shimo_no_ku": "人づてならで いふよしもがな",
+    "author": "左京大夫道雅"
+  },
+  {
+    "id": 64,
+    "kimariji": "あさぼらけ（うぢ）",
+    "full_kami": "朝ぼらけ 宇治の川霧 たえだえに",
+    "shimo_no_ku": "あらはれわたる 瀬々の網代木",
+    "author": "権中納言定頼"
+  },
+  {
+    "id": 65,
+    "kimariji": "うら",
+    "full_kami": "恨みわび ほさぬ袖だに あるものを",
+    "shimo_no_ku": "恋に朽ちなむ 名こそ惜しけれ",
+    "author": "相模"
+  },
+  {
+    "id": 66,
+    "kimariji": "もろ",
+    "full_kami": "もろともに あはれと思へ 山桜",
+    "shimo_no_ku": "花よりほかに 知る人もなし",
+    "author": "前大僧正行尊"
+  },
+  {
+    "id": 67,
+    "kimariji": "はるの",
+    "full_kami": "春の夜の 夢ばかりなる 手枕に",
+    "shimo_no_ku": "かひなく立たむ 名こそ惜しけれ",
+    "author": "周防内侍"
+  },
+  {
+    "id": 68,
+    "kimariji": "こころに",
+    "full_kami": "心にも あらで憂き世に ながらへば",
+    "shimo_no_ku": "恋しかるべき 夜半の月かな",
+    "author": "三条院"
+  },
+  {
+    "id": 69,
+    "kimariji": "あらし",
+    "full_kami": "嵐吹く 三室の山の もみぢ葉は",
+    "shimo_no_ku": "竜田の川の 錦なりけり",
+    "author": "能因法師"
+  },
+  {
+    "id": 70,
+    "kimariji": "さび",
+    "full_kami": "寂しさに 宿を立ち出でて ながむれば",
+    "shimo_no_ku": "いづこも同じ 秋の夕暮",
+    "author": "良暹法師"
+  },
+  {
+    "id": 71,
+    "kimariji": "ゆふ",
+    "full_kami": "夕されば 門田の稲葉 おとづれて",
+    "shimo_no_ku": "芦のまろやに 秋風ぞ吹く",
+    "author": "大納言経信"
+  },
+  {
+    "id": 72,
+    "kimariji": "おとに",
+    "full_kami": "音に聞く 高師の浜の あだ波は",
+    "shimo_no_ku": "かけじや袖の ぬれもこそすれ",
+    "author": "祐子内親王家紀伊"
+  },
+  {
+    "id": 73,
+    "kimariji": "たかさご",
+    "full_kami": "高砂の 尾上の桜 咲きにけり",
+    "shimo_no_ku": "外山の霞 立たずもあらなむ",
+    "author": "権中納言匡房"
+  },
+  {
+    "id": 74,
+    "kimariji": "うか",
+    "full_kami": "憂かりける 人を初瀬の 山おろしよ",
+    "shimo_no_ku": "はげしかれとは 祈らぬものを",
+    "author": "源俊頼朝臣"
+  },
+  {
+    "id": 75,
+    "kimariji": "ちぎりお",
+    "full_kami": "契りおきし させもが露を 命にて",
+    "shimo_no_ku": "あはれ今年の 秋もいぬめり",
+    "author": "藤原基俊"
+  },
+  {
+    "id": 76,
+    "kimariji": "わたのはら（こぎ）",
+    "full_kami": "わたの原 漕ぎ出でて見れば ひさかたの",
+    "shimo_no_ku": "雲ゐにまがふ 沖つ白波",
+    "author": "法性寺入道前関白太政大臣"
+  },
+  {
+    "id": 77,
+    "kimariji": "せを",
+    "full_kami": "瀬をはやみ 岩にせかるる 滝川の",
+    "shimo_no_ku": "われても末に 逢はむとぞ思ふ",
+    "author": "崇徳院"
+  },
+  {
+    "id": 78,
+    "kimariji": "あはぢ",
+    "full_kami": "淡路島 通ふ千鳥の 鳴く声に",
+    "shimo_no_ku": "いく夜寝覚めぬ 須磨の関守",
+    "author": "源兼昌"
+  },
+  {
+    "id": 79,
+    "kimariji": "あきかぜ",
+    "full_kami": "秋風に たなびく雲の 絶え間より",
+    "shimo_no_ku": "もれ出づる月の 影のさやけさ",
+    "author": "左京大夫顕輔"
+  },
+  {
+    "id": 80,
+    "kimariji": "なが",
+    "full_kami": "ながからむ 心も知らず 黒髪の",
+    "shimo_no_ku": "乱れてけさは ものをこそ思へ",
+    "author": "待賢門院堀河"
+  },
+  {
+    "id": 81,
+    "kimariji": "ほと",
+    "full_kami": "ほととぎす 鳴きつる方を ながむれば",
+    "shimo_no_ku": "ただ有明の 月ぞ残れる",
+    "author": "後徳大寺左大臣"
+  },
+  {
+    "id": 82,
+    "kimariji": "おもひわ",
+    "full_kami": "思ひわび さても命は あるものを",
+    "shimo_no_ku": "憂きに堪へぬは 涙なりけり",
+    "author": "道因法師"
+  },
+  {
+    "id": 83,
+    "kimariji": "よのなか",
+    "full_kami": "世の中よ 道こそなけれ 思ひ入る",
+    "shimo_no_ku": "山の奥にも 鹿ぞ鳴くなる",
+    "author": "皇太后宮大夫俊成"
+  },
+  {
+    "id": 84,
+    "kimariji": "ながらへ",
+    "full_kami": "ながらへば またこのごろや しのばれむ",
+    "shimo_no_ku": "憂しと見し世ぞ 今は恋しき",
+    "author": "藤原清輔朝臣"
+  },
+  {
+    "id": 85,
+    "kimariji": "よも",
+    "full_kami": "夜もすがら もの思ふころは 明けやらで",
+    "shimo_no_ku": "ねやのひまさへ つれなかりけり",
+    "author": "俊恵法師"
+  },
+  {
+    "id": 86,
+    "kimariji": "なげけ",
+    "full_kami": "嘆けとて 月やはものを 思はする",
+    "shimo_no_ku": "かこちがほなる わが涙かな",
+    "author": "西行法師"
+  },
+  {
+    "id": 87,
+    "kimariji": "むら",
+    "full_kami": "村雨の 露もまだひぬ まきの葉に",
+    "shimo_no_ku": "霧立ちのぼる 秋の夕暮",
+    "author": "寂蓮法師"
+  },
+  {
+    "id": 88,
+    "kimariji": "なにはえ",
+    "full_kami": "難波江の 芦のかりねの ひとよゆゑ",
+    "shimo_no_ku": "みをつくしてや 恋ひわたるべき",
+    "author": "皇嘉門院別当"
+  },
+  {
+    "id": 89,
+    "kimariji": "たまの",
+    "full_kami": "玉の緒よ 絶えなば絶えね ながらへば",
+    "shimo_no_ku": "忍ぶることの 弱りもぞする",
+    "author": "式子内親王"
+  },
+  {
+    "id": 90,
+    "kimariji": "みせ",
+    "full_kami": "見せばやな 雄島の海人の 袖だにも",
+    "shimo_no_ku": "濡れにぞ濡れし 色は変はらず",
+    "author": "殷富門院大輔"
+  },
+  {
+    "id": 91,
+    "kimariji": "きり",
+    "full_kami": "きりぎりす 鳴くや霜夜の さむしろに",
+    "shimo_no_ku": "衣かたしき ひとりかも寝む",
+    "author": "後京極摂政前太政大臣"
+  },
+  {
+    "id": 92,
+    "kimariji": "わがそで",
+    "full_kami": "わが袖は 潮干に見えぬ 沖の石の",
+    "shimo_no_ku": "人こそ知らね かわく間もなし",
+    "author": "二条院讃岐"
+  },
+  {
+    "id": 93,
+    "kimariji": "よのなかは",
+    "full_kami": "世の中は 常にもがもな 渚漕ぐ",
+    "shimo_no_ku": "海人の小舟の 綱手かなしも",
+    "author": "鎌倉右大臣"
+  },
+  {
+    "id": 94,
+    "kimariji": "みよ",
+    "full_kami": "み吉野の 山の秋風 小夜更けて",
+    "shimo_no_ku": "ふるさと寒く 衣うつなり",
+    "author": "参議雅経"
+  },
+  {
+    "id": 95,
+    "kimariji": "おほけ",
+    "full_kami": "おほけなく うき世の民に おほふかな",
+    "shimo_no_ku": "わが立つ杣に 墨染の袖",
+    "author": "前大僧正慈円"
+  },
+  {
+    "id": 96,
+    "kimariji": "はなさ",
+    "full_kami": "花さそふ 嵐の庭の 雪ならで",
+    "shimo_no_ku": "ふりゆくものは わが身なりけり",
+    "author": "入道前太政大臣"
+  },
+  {
+    "id": 97,
+    "kimariji": "こぬ",
+    "full_kami": "来ぬ人を まつほの浦の 夕なぎに",
+    "shimo_no_ku": "焼くや藻塩の 身もこがれつつ",
+    "author": "権中納言定家"
+  },
+  {
+    "id": 98,
+    "kimariji": "かぜそ",
+    "full_kami": "風そよぐ 楢の小川の 夕暮は",
+    "shimo_no_ku": "みそぎぞ夏の しるしなりける",
+    "author": "従二位家隆"
+  },
+  {
+    "id": 99,
+    "kimariji": "ひとも",
+    "full_kami": "人も愛し 人も恨めし あぢきなく",
+    "shimo_no_ku": "世を思ふゆゑに もの思ふ身は",
+    "author": "後鳥羽院"
+  },
+  {
+    "id": 100,
+    "kimariji": "ももしき",
+    "full_kami": "ももしきや 古き軒端の しのぶにも",
+    "shimo_no_ku": "なほあまりある 昔なりけり",
+    "author": "順徳院"
+  }
+]
