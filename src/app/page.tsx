@@ -230,7 +230,7 @@ export default function HomePage() {
           </p>
           <Link
             href="/quiz"
-            className="bg-white text- hover:bg-gray-100 px-8 py-3 rounded-lg text-lg font-semibold transition-all duration-300 inline-block"
+            className="bg-white text-green-800 hover:bg-gray-100 px-8 py-3 rounded-lg text-lg font-semibold transition-all duration-300 inline-block"
           >
             今すぐクイズに挑戦
           </Link>

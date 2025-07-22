@@ -1,7 +1,6 @@
 'use client'
 
 import { useState, useEffect } from 'react'
-import Link from 'next/link'
 import kimarijidData from '../data/kimariji.json'
 import poemDetails from '../data/poem-details.json'
 
@@ -137,10 +136,7 @@ export default function QuizPage() {
   
   // 統計情報を読み込み
   useEffect(() => {
-    const updateStats = () => {
-      setUserStats(calculateUserStats())
-    }
-    updateStats()
+    setUserStats(calculateUserStats())
   }, [])
   
   // クイズ終了時に結果を保存
@@ -299,7 +295,7 @@ export default function QuizPage() {
           <div 
             className="fixed inset-0 z-0"
             style={{
-              backgroundImage: 'url(/background.jpeg)',
+              backgroundImage: 'url(/background.png)',
               backgroundSize: 'cover',
               backgroundPosition: 'center',
               backgroundRepeat: 'no-repeat',
@@ -338,12 +334,12 @@ export default function QuizPage() {
             <div className="text-center py-12">
               {/* 戻るリンク */}
               <div className="mb-6">
-                <Link
+                <a
                   href="/"
                   className="text-green-600 hover:text-green-800 transition-colors text-lg font-medium"
                 >
                   ← 百人一首一覧に戻る
-                </Link>
+                </a>
               </div>
               
               <h1 className="text-4xl md:text-5xl font-bold text-gray-800 mb-4">
@@ -462,7 +458,7 @@ export default function QuizPage() {
         <div 
           className="fixed inset-0 z-0"
           style={{
-            backgroundImage: 'url(/background.jpeg)',
+            backgroundImage: 'url(/background.png)',
             backgroundSize: 'cover',
             backgroundPosition: 'center',
             backgroundRepeat: 'no-repeat',
@@ -501,12 +497,12 @@ export default function QuizPage() {
           <div className="py-12 px-4">
             {/* 戻るリンク */}
             <div className="mb-6 text-center">
-              <Link
+              <a
                 href="/"
                 className="text-green-600 hover:text-green-800 transition-colors text-lg font-medium"
               >
                 ← 百人一首一覧に戻る
-              </Link>
+              </a>
             </div>
             
             <div className="text-center mb-8">
@@ -593,7 +589,7 @@ export default function QuizPage() {
       <div 
         className="fixed inset-0 z-0"
         style={{
-          backgroundImage: 'url(/background.jpeg)',
+          backgroundImage: 'url(/background.png)',
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           backgroundRepeat: 'no-repeat',
