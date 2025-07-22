@@ -1,6 +1,7 @@
 'use client'
 
 import { useState, useEffect } from 'react'
+import Link from 'next/link'
 import kimarijidData from '../data/kimariji.json'
 import poemDetails from '../data/poem-details.json'
 
@@ -137,7 +138,7 @@ export default function QuizPage() {
   // 統計情報を読み込み
   useEffect(() => {
     setUserStats(calculateUserStats())
-  }, [])
+  }, [calculateUserStats])
   
   // クイズ終了時に結果を保存
   const saveCurrentQuizResult = () => {
@@ -334,12 +335,12 @@ export default function QuizPage() {
             <div className="text-center py-12">
               {/* 戻るリンク */}
               <div className="mb-6">
-                <a
+                <Link
                   href="/"
-                  className="text-green-600 hover:text-green-800 transition-colors text-lg font-medium"
+                  className="text-green-800 hover:text-green-900 transition-colors text-lg font-medium"
                 >
                   ← 百人一首一覧に戻る
-                </a>
+                </Link>
               </div>
               
               <h1 className="text-4xl md:text-5xl font-bold text-gray-800 mb-4">
@@ -497,12 +498,12 @@ export default function QuizPage() {
           <div className="py-12 px-4">
             {/* 戻るリンク */}
             <div className="mb-6 text-center">
-              <a
+              <Link
                 href="/"
-                className="text-green-600 hover:text-green-800 transition-colors text-lg font-medium"
+                className="text-green-800 hover:text-green-900 transition-colors text-lg font-medium"
               >
                 ← 百人一首一覧に戻る
-              </a>
+              </Link>
             </div>
             
             <div className="text-center mb-8">
